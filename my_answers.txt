@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hi hi hi
+=======
+add data to my_answers.txt on GitHub
+>>>>>>> 5290fe2d14d59e115c20ad7e6e6d64ef5cc9d0f1
+
+hih ihhhihihikljdf 
